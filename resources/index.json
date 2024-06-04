@@ -1,0 +1,39 @@
+{
+    "result" : [
+        {
+            "productName" : "Levi Ackermane",
+            "catergory" : "AOT",
+            "description" : "Captine of the survey corps, Solos the whole verse.",
+            "amount" : 40000.95,
+            "img_url" : "https://chelsea-julie.github.io/all-images/images/bubbles.png"
+        },
+        {
+            "productName" : "Eren Jeager",
+            "catergory" : "AOT",
+            "description" : "The attack titan, know as the most powerful titan in a 1v1. Also known as Mr take your b!tch",
+            "amount" : 35000.89,
+            "img_url" : "https://chelsea-julie.github.io/all-images/images/buttercup.png"
+        },
+        {
+            "productName" : "yoruichi",
+            "catergory" : "Bleach Verse",
+            "description" : "The baddest hun in the bleach verse. Also know as one of the fastes Shinigame in history.",
+            "amount" : 25000.89,
+            "img_url" : "https://chelsea-julie.github.io/all-images/images/awodwa.png"
+        },
+        {
+            "productName" : "daniel",
+            "catergory" : "person",
+            "description" : "long",
+            "amount" : 20000.89,
+            "img_url" : "https://chelsea-julie.github.io/all-images/images/daniel.png"
+        },
+        {
+            "productName" : "nizaam",
+            "catergory" : "snuck onto earth",
+            "description" : "creepy",
+            "amount" : 20000.89,
+            "img_url" : "https://chelsea-julie.github.io/all-images/images/doofensmirts.png"
+        }
+    ]
+}
